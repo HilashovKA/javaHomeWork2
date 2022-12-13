@@ -1,0 +1,12 @@
+декаб. 13, 2022 3:10:21 PM Seminar2 getFiles 
+WARNING: Файлы не найдены в этой папке 
+декаб. 13, 2022 3:25:10 PM Seminar2 writer 
+INFO: В предыдущем методе файл вернул null 
+декаб. 13, 2022 3:39:49 PM Seminar2 getFiles 
+WARNING: Файлы не найдены в этой папке 
+декаб. 13, 2022 4:40:06 PM Seminar2 writer 
+INFO: В предыдущем методе файл вернул null 
+декаб. 13, 2022 4:50:35 PM Seminar2 getFiles 
+WARNING: Файлы не найдены в этой папке 
+декаб. 13, 2022 5:05:11 PM Seminar2 writer 
+INFO: В предыдущем методе файл вернул null

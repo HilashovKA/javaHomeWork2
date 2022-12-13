@@ -1,0 +1,12 @@
+дек. 13, 2022 6:18:31 PM homework2.ArrayBubble <init>
+INFO: Распечатали массив в консоль
+дек. 13, 2022 6:18:31 PM homework2.ArrayBubble toSwap
+INFO: Выполнился метод замены мест 2х элементов из массива, а их 5
+дек. 13, 2022 6:18:31 PM homework2.ArrayBubble toSwap
+INFO: Выполнился метод замены мест 2х элементов из массива, а их 5
+дек. 13, 2022 6:18:31 PM homework2.ArrayBubble toSwap
+INFO: Выполнился метод замены мест 2х элементов из массива, а их 5
+дек. 13, 2022 6:18:31 PM homework2.ArrayBubble bubbleSorter
+INFO: Выполнилась сортировка массива пузырьком
+дек. 13, 2022 6:18:31 PM homework2.ArrayBubble printer
+INFO: Выполнился метод вывода массива в консоль
